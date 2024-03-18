@@ -3,7 +3,7 @@ venv/
 .venv/
 
 #Ds_ store purpose unknown
-DS_Store
+.DS_Store
 
 # IDEs
 .vscode/
